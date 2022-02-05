@@ -29,13 +29,9 @@ cd iotset1/examples
 dir
 ตรวจสอบดูโฟลเดอร์ตัวอย่าง ex01,ex02,ex03
 
-รันตัวอย่างที่ 1
+ทดสอบรันตัวอย่างที่ 1 เพื่อทดสอบโปรแกรมในการใช้งาน
 cd iotset1/examples/ex01
 pio run
-รันตัวอย่างที่ 2
-cd iotset1/examples/ex03
-pio run
-เพื่อทดสอบโปรแกรมในการใช้งาน
 
 ## -สรุปเนื้อหาการศึกษาทดลอง microcontroller
 การทดลองครั้งนี้ใช้ตัว microcontroller ที่มีชื่อรุ่นว่า **ESP-01(รับ wifi ได้)**
