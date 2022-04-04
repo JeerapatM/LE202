@@ -24,7 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/98943413/161442219-27ef733f-52c1-46f8-865d-1c389c4f3e81.png)
 
-จากการที่ได้กล่าวไปในหัวข้อข้างต้นทำให้เราสามารถนำ **Low-High level language** มาปรับใช้ในการเขียนโปรแกรมเพื่อให้มนุษย์อย่างเราสามารถใช้ภาษาแบบ High level เพื่อสื่อสารกับคอมพิวเตอร์ที่เป็นภาษาแบบ Low level ได้ผ่านเว็บไซต์ **[godbolt](https://godbolt.org/)**  
+จากการที่ได้กล่าวไปในหัวข้อข้างต้นทำให้เราสามารถนำ **Low-High level language** มาปรับใช้ในการเขียนโปรแกรมเพื่อให้มนุษย์อย่างเราสามารถใช้ภาษาแบบ High level เพื่อสื่อสารกับคอมพิวเตอร์ที่เป็นภาษาแบบ Low level ได้ผ่านเว็บไซต์ **[godbolt.org](https://godbolt.org/)**  
 
 ![image](https://user-images.githubusercontent.com/98943413/161508667-4fe62d0b-7a16-4635-aa17-e6e4aa3e7981.png)
 
